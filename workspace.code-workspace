@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\Body Lading Page"
+		},
+		{
+			"path": "..\\..\\..\\Documents\\LadingPage_Upfour"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "LadingPage_Upfour"
+	}
+}
