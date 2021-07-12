@@ -1,9 +1,6 @@
 ```# landing-page-template
+Link surge: vagabond-rabbits.surge.sh
 
-vagabond-rabbits.surge.sh
-
-Body editado com medidas em "Rem" por referência de video em inglês onde foi utilizado essas medidas 
-
-
+"REM" utilizado como medida no body por ter visto uma aula sobre animação no html/css estrangeira onde usavem essa medida
 
 ```
